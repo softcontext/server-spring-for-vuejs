@@ -1,0 +1,12 @@
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot1', 'writer1', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot2', 'writer2', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot3', 'writer3', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot4', 'writer4', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot5', 'writer5', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot6', 'writer6', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot7', 'writer7', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot8', 'writer8', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot9', 'writer9', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot10', 'writer10', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot11', 'writer11', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
+INSERT INTO story(plot, writer, upvotes, created_at, updated_at) VALUES('plot12', 'writer12', 0, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
